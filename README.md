@@ -2,9 +2,10 @@
 
 React JS Movie Web App
 
-[Link]: https://yoodonghyuk.github.io/movie_app/#/
+# Link
+https://yoodonghyuk.github.io/movie_app/#/
 
-## Features
+### Features
 
 - [x] API
 - [x] Router
