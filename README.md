@@ -3,7 +3,7 @@
 React JS Movie Web App
 
 # Link
-https://yoodonghyuk.github.io/movie_app/#/
+https://donghyuk-yoo.github.io/movie_app/
 
 ### Features
 
